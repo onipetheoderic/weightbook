@@ -1,0 +1,9 @@
+{
+    "name": "curved_button",
+    "version": "0.0.1",
+    "private": true,
+    "description": "This is the Curved Button Component, it has a defualt height and width, width is in percentage(string)",
+    "author": "Theoderic Onipe",
+    "contributors": ["Theoderic Onipe"],
+    "main": "curvedButton.js"
+}

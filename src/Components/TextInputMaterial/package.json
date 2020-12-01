@@ -1,0 +1,9 @@
+{
+    "name": "text_input_material",
+    "version": "0.0.1",
+    "private": true,
+    "description": "This is the welome screen",
+    "author": "Theoderic Onipe",
+    "contributors": ["Theoderic Onipe"],
+    "main": "TextInputMaterial.js"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "country_selection_screen",
+    "version": "0.0.1",
+    "private": true,
+    "description": "This is the signup screen",
+    "author": "Theoderic Onipe",
+    "contributors": ["Theoderic Onipe"],
+    "main": "countrySelection.js"
+}
