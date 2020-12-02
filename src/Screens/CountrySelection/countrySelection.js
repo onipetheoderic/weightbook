@@ -118,10 +118,6 @@ const SignUpScreen = (props) => {
           />
             
             </View>
-   
-
-         
-
             
         </LinearGradient>
         
